@@ -23,9 +23,11 @@ Architecture: Component-based, reusable code
 
 # Try It Now:
 
-<<<<<<< HEAD
 Add a new task using the input field
 Change task status in the dropdown
 Toggle the sidebar with the menu icon
 Watch the charts update in real-time!
 
+<img width="1424" height="861" alt="Screenshot 2025-11-28 162341" src="https://github.com/user-attachments/assets/decb5304-6a17-4262-b335-73ceb8c1c327" />
+<img width="1417" height="857" alt="Screenshot 2025-11-28 162405" src="https://github.com/user-attachments/assets/2f1e4bbb-77a5-4b1b-8ae7-f08aad5ce2d3" />
+<img width="1425" height="858" alt="Screenshot 2025-11-28 162419" src="https://github.com/user-attachments/assets/0e70dd1b-956a-4b84-9e06-43ad66691dd8" />
