@@ -23,10 +23,9 @@ Architecture: Component-based, reusable code
 
 # Try It Now:
 
+<<<<<<< HEAD
 Add a new task using the input field
 Change task status in the dropdown
 Toggle the sidebar with the menu icon
 Watch the charts update in real-time!
-![alt text](pic1.png)
-![alt text](pic2.png)
-![alt text](pic3.png)
+
